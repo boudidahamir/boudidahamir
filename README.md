@@ -1,12 +1,11 @@
-
 <h1 align="center">Hi there, I'm Amir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
-  <em>Passionate Software Engineer | Backend Developer | AI Explorer | Game Dev Enthusiast</em>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Amir+Boudidah;Software+Engineer;Unity+Dev+%7C+Flutter+Mobile+Dev;Cloud+and+DevOps+Explorer;Game+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Amir+Boudidah;Backend+Developer;AI+Explorer;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <em>Full-Stack Developer | AI Explorer | Game Developer | DevOps Learner | Problem Solver</em>
 </p>
 
 ---
@@ -15,8 +14,10 @@
 ```yaml
 Name: Amir Boudidah
 Location: Tunisia
-Focus: Backend Development | AI | Game Programming
-Stack: Python, Java, C#, JSF, EJB, Jupyter
+Portfolio: https://www.amirboudidah.tn
+LinkedIn: https://www.linkedin.com/in/amir-boudidah-0b6474299
+GitHub: https://github.com/boudidahamir
+TechStack: Python, Java, C#, JavaScript, Unity, Flutter, Firebase, Docker, GitHub Actions
 Motto: "Code. Learn. Build. Repeat."
 ```
 
@@ -25,7 +26,7 @@ Motto: "Code. Learn. Build. Repeat."
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,jupyter,git,docker,postgresql" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,flutter,unity,docker,firebase,git" />
 </p>
 
 ---
@@ -68,14 +69,20 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-### 📬 Connect with Me
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/amir-boudidah-0b6474299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+  <a href="https://www.amirboudidah.tn" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-amirboudidah.tn-000000?style=for-the-badge&logo=Firefox&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/amir-boudidah-0b6474299" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Amir%20Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amirboudiah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-amirboudiah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/boudidahamir">
+    <img src="https://img.shields.io/badge/GitHub-boudidahamir-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
