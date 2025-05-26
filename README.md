@@ -12,7 +12,7 @@
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/fvN04Tdk3Imas/giphy.gif" width="35"/> About Me</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/1828/1828932.png" width="28"/> About Me</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+a+love+for+automation;Unity+Game+Dev+%7C+Flutter+Mobile+Builder;Building+cool+things+since+day+one..." />
@@ -30,7 +30,7 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> My Tech Toolbox</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/1055/1055687.png" width="28"/> My Tech Toolbox</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,unity,javascript,docker,firebase,git" />
@@ -55,7 +55,7 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="35"/> GitHub Achievements</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/2721/2721076.png" width="28"/> GitHub Achievements</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=boudidahamir&theme=gruvbox&no-frame=true&row=1&column=7" />
@@ -63,7 +63,7 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="35"/> Highlight Projects</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/2909/2909737.png" width="28"/> Highlight Projects</h3>
 
 | Project | Description |
 |--------|-------------|
@@ -76,7 +76,7 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-<h3 align="center"><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="35"/> Connect with Me</h3>
+<h3 align="center"><img src="https://cdn-icons-png.flaticon.com/128/3059/3059392.png" width="28"/> Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.amirboudidah.tn" target="_blank">
@@ -93,4 +93,6 @@ Motto: "Code. Learn. Build. Repeat."
   </a>
 </p>
 
-<p align="center"><em>"Let's code something awesome together!"</em></p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=4000&pause=1000&color=00FFAA&center=true&vCenter=true&width=550&lines=Let's+code+something+awesome+together!" />
+</p>
