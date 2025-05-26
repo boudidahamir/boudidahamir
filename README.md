@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there, I'm Hamir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Amir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <em>Passionate Software Engineer | Backend Developer | AI Explorer | Game Dev Enthusiast</em>
@@ -13,7 +13,7 @@
 
 ### 🚀 About Me
 ```yaml
-Name: Hamir Boudidah
+Name: Amir Boudidah
 Location: Tunisia
 Focus: Backend Development | AI | Game Programming
 Stack: Python, Java, C#, JSF, EJB, Jupyter
@@ -67,10 +67,10 @@ Motto: "Code. Learn. Build. Repeat."
 ### 📬 Connect with Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedinusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Hamir%20Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/amir-boudidah-0b6474299?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:amirboudiah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
