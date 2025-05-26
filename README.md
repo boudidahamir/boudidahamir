@@ -1,15 +1,19 @@
 
-<h1 align="center">Hi there, I'm amir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+<h1 align="center">Hi there, I'm Hamir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 
 <p align="center">
   <em>Passionate Software Engineer | Backend Developer | AI Explorer | Game Dev Enthusiast</em>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Hamir+Boudidah;Backend+Developer;AI+Explorer;Game+Dev+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 🚀 About Me
 ```yaml
-Name: Amir Boudidah
+Name: Hamir Boudidah
 Location: Tunisia
 Focus: Backend Development | AI | Game Programming
 Stack: Python, Java, C#, JSF, EJB, Jupyter
@@ -26,7 +30,7 @@ Motto: "Code. Learn. Build. Repeat."
 
 ---
 
-### 🔥 My GitHub Stats
+### 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boudidahamir&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
@@ -69,6 +73,14 @@ Motto: "Code. Learn. Build. Repeat."
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+</p>
+
+---
+
+### 🐍 Contribution Graph Animation
+
+<p align="center">
+  <img src="https://github.com/boudidahamir/boudidahamir/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
