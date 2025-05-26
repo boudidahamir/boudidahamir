@@ -53,9 +53,7 @@ Motto: "Code. Learn. Build. Repeat."
   <img src="https://github.com/boudidahamir/boudidahamir/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/assets/rainbow-divider.gif" width="100%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="35"/> GitHub Achievements</h3>
 
@@ -76,9 +74,7 @@ Motto: "Code. Learn. Build. Repeat."
 | [**IAGame**](https://github.com/boudidahamir/IAGame) | Game project using AI logic. |
 | [**NGSign-project**](https://github.com/boudidahamir/NGSign-project) | Secure signature-based solution. |
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/assets/rainbow-divider.gif" width="100%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="35"/> Connect with Me</h3>
 
