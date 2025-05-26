@@ -1,41 +1,49 @@
-<h1 align="center">Hi there, I'm Amir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+
+<h1 align="center">
+  Hi there, I'm Amir Boudidah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+I'm+Amir+Boudidah;Software+Engineer;Unity+Dev+%7C+Flutter+Mobile+Dev;Cloud+and+DevOps+Explorer;Game+Dev+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Hi+I'm+Amir+Boudidah;Software+Engineer+%7C+Unity+%26+Flutter+Dev;DevOps+%7C+Cloud+Explorer;Creative+Problem+Solver" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <em>Full-Stack Developer | AI Explorer | Game Developer | DevOps Learner | Problem Solver</em>
+  <em>Full-Stack Engineer | AI Explorer | Game Developer | DevOps Learner | 🚀 Always Learning</em>
 </p>
 
----
+<hr style="border-top: 4px dotted #999; animation: pulse 2s infinite alternate;" />
 
-### 🚀 About Me
+<h3 align="center">✨🚀 About Me</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+a+love+for+automation;Unity+Game+Developer+and+Flutter+Mobile+App+Builder;Building+cool+things+since+day+one..." />
+</p>
+
 ```yaml
 Name: Amir Boudidah
 Location: Tunisia
 Portfolio: https://www.amirboudidah.tn
 LinkedIn: https://www.linkedin.com/in/amir-boudidah-0b6474299
 GitHub: https://github.com/boudidahamir
-TechStack: Python, Java, C#, JavaScript, Unity, Flutter, Firebase, Docker, GitHub Actions
+TechStack: Python, Java, C#, Unity, Flutter, Firebase, Docker, GitHub Actions
 Motto: "Code. Learn. Build. Repeat."
 ```
 
----
+<hr style="border-top: 4px dashed #bbb; animation: pulse 1.5s infinite alternate;" />
 
-### 🛠️ Tech Stack
+<h3 align="center">🛠️ My Tech Toolbox</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,cs,javascript,flutter,unity,docker,firebase,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,unity,javascript,docker,firebase,git" />
 </p>
 
----
+<hr style="border-top: 4px dashed #bbb;" />
 
-### 🔥 GitHub Stats
+<h3 align="center">📊 My GitHub Stats</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=boudidahamir&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=boudidahamir&theme=tokyonight&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=boudidahamir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=boudidahamir&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
@@ -46,44 +54,46 @@ Motto: "Code. Learn. Build. Repeat."
   <img src="https://github.com/boudidahamir/boudidahamir/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
----
+<hr style="border-top: 4px dashed #bbb;" />
 
-### 🏆 GitHub Trophies
+<h3 align="center">🏆 GitHub Achievements</h3>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=boudidahamir&theme=algolia&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=boudidahamir&theme=gruvbox&no-frame=true&row=1&column=7" />
 </p>
 
----
+<hr style="border-top: 4px dashed #bbb;" />
 
-### 📂 Highlight Projects
+<h3 align="center">💼 Highlight Projects</h3>
 
 | Project | Description |
 |--------|-------------|
-| [**CaptureTheFlagBackEnd**](https://github.com/boudidahamir/CaptureTheFlagBackEnd) | Backend system for a CTF game using REST APIs. |
-| [**Ecom-BTK**](https://github.com/boudidahamir/Ecom-BTK) | Java-based e-commerce platform using JSF & EJB. |
-| [**EnviroQuest**](https://github.com/boudidahamir/EnviroQuest) | A C# game with environmental themes. |
-| [**FraudDetectionAI**](https://github.com/boudidahamir/FraudDetectionAI) | Machine learning models for detecting fraud. |
-| [**IAGame**](https://github.com/boudidahamir/IAGame) | A C# AI-based game project. |
-| [**NGSign-project**](https://github.com/boudidahamir/NGSign-project) | Secure signing project (details coming soon). |
+| [**CaptureTheFlagBackEnd**](https://github.com/boudidahamir/CaptureTheFlagBackEnd) | RESTful backend for a CTF game. |
+| [**Ecom-BTK**](https://github.com/boudidahamir/Ecom-BTK) | E-commerce app with JSF & EJB. |
+| [**EnviroQuest**](https://github.com/boudidahamir/EnviroQuest) | Unity-based game with eco themes. |
+| [**FraudDetectionAI**](https://github.com/boudidahamir/FraudDetectionAI) | AI models for fraud detection. |
+| [**IAGame**](https://github.com/boudidahamir/IAGame) | Game project using AI logic. |
+| [**NGSign-project**](https://github.com/boudidahamir/NGSign-project) | Secure signature-based solution. |
 
----
+<hr style="border-top: 4px dashed #bbb;" />
 
-### 🌐 Connect with Me
+<h3 align="center">🌐 Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.amirboudidah.tn" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-amirboudidah.tn-000000?style=for-the-badge&logo=Firefox&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-amirboudidah.tn-black?style=for-the-badge&logo=firefox&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/amir-boudidah-0b6474299" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Amir%20Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Amir_Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amirboudiah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-amirboudiah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/boudidahamir">
+  <a href="https://github.com/boudidahamir" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-boudidahamir-181717?style=for-the-badge&logo=github"/>
   </a>
 </p>
 
 ---
+
+<p align="center"><em>"Let's code something awesome together!"</em></p>
