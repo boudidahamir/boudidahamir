@@ -11,10 +11,10 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">✨🚀 About Me</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/fvN04Tdk3Imas/giphy.gif" width="35"/> About Me</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=18&duration=4000&pause=1000&color=F59E0B&center=true&vCenter=true&width=600&lines=Backend+Engineer+with+a+love+for+automation;Unity+Game+Dev+%7C+Flutter+Mobile+Builder;Building+cool+things+since+day+one..." />
@@ -31,20 +31,20 @@ Motto: "Code. Learn. Build. Repeat."
 ```
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">🛠️💻 My Tech Toolbox</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> My Tech Toolbox</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,unity,javascript,docker,firebase,git" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">📊📈 My GitHub Stats</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/> My GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=boudidahamir&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
@@ -60,20 +60,20 @@ Motto: "Code. Learn. Build. Repeat."
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">🏆🥇 GitHub Achievements</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/l0ExncehJzexFpRHq/giphy.gif" width="35"/> GitHub Achievements</h3>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=boudidahamir&theme=gruvbox&no-frame=true&row=1&column=7" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">💼📂 Highlight Projects</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="35"/> Highlight Projects</h3>
 
 | Project | Description |
 |--------|-------------|
@@ -85,10 +85,10 @@ Motto: "Code. Learn. Build. Repeat."
 | [**NGSign-project**](https://github.com/boudidahamir/NGSign-project) | Secure signature-based solution. |
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%" />
+  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
 </p>
 
-<h3 align="center">🌐📬 Connect with Me</h3>
+<h3 align="center"><img src="https://media.giphy.com/media/3oriO0OEd9QIDdllqo/giphy.gif" width="35"/> Connect with Me</h3>
 
 <p align="center">
   <a href="https://www.amirboudidah.tn" target="_blank">
