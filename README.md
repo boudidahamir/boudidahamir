@@ -10,9 +10,7 @@
   <em>Full-Stack Engineer | AI Explorer | Game Developer | DevOps Learner | 🚀 Always Learning</em>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/assets/rainbow-divider.gif" width="100%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/fvN04Tdk3Imas/giphy.gif" width="35"/> About Me</h3>
 
@@ -30,9 +28,7 @@ TechStack: Python, Java, C#, Unity, Flutter, Firebase, Docker, GitHub Actions
 Motto: "Code. Learn. Build. Repeat."
 ```
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/assets/rainbow-divider.gif" width="100%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="35"/> My Tech Toolbox</h3>
 
@@ -40,9 +36,7 @@ Motto: "Code. Learn. Build. Repeat."
   <img src="https://skillicons.dev/icons?i=python,java,cs,flutter,unity,javascript,docker,firebase,git" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/JulienMaille/dracula-readme/master/assets/rainbow-divider.gif" width="100%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35"/> My GitHub Stats</h3>
 
@@ -69,9 +63,7 @@ Motto: "Code. Learn. Build. Repeat."
   <img src="https://github-profile-trophy.vercel.app/?username=boudidahamir&theme=gruvbox&no-frame=true&row=1&column=7" />
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/8T3Hi1g.gif" width="80%" />
-</p>
+---
 
 <h3 align="center"><img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="35"/> Highlight Projects</h3>
 
