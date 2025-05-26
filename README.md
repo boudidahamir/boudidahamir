@@ -41,6 +41,10 @@ Motto: "Code. Learn. Build. Repeat."
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=boudidahamir&theme=react-dark&hide_border=true" />
 </p>
 
+<p align="center">
+  <img src="https://github.com/boudidahamir/boudidahamir/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
 ---
 
 ### 🏆 GitHub Trophies
@@ -73,14 +77,6 @@ Motto: "Code. Learn. Build. Repeat."
   <a href="mailto:amirboudiah@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-amirboudiah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-
----
-
-### 🐍 Contribution Graph Animation
-
-<p align="center">
-  <img src="https://github.com/boudidahamir/boudidahamir/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
