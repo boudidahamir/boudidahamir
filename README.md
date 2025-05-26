@@ -71,7 +71,7 @@ Motto: "Code. Learn. Build. Repeat."
     <img src="https://img.shields.io/badge/LinkedIn-Amir%20Boudidah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:amirboudiah@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-your.email@example.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Gmail-amirboudiah@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
